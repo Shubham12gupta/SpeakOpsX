@@ -16,6 +16,9 @@ $ speakops listen
 ```
 
 ---
+<p align="center">
+  <img src="assets/speakops-banner.svg" alt="SpeakOps Terminal" />
+</p>
 
 ## The Problem
 
