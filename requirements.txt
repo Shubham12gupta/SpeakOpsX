@@ -1,0 +1,13 @@
+click
+rich
+anthropic
+pyyaml
+pydantic
+kubernetes
+requests
+librosa
+numpy
+scipy
+pyaudio
+faster-whisper
+cryptography
