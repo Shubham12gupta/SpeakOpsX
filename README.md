@@ -1,4 +1,4 @@
-# 🎙️ SpeakOps
+# 🎙️ SpeakOpsX
 
 > **Talk to your infrastructure. It listens.**
 
