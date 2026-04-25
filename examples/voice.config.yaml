@@ -6,10 +6,10 @@
 
 # 1. META
 meta:
-  project_name: speakops
+  project_name: speakopsx
   version: v1
   owner_email: "shubhamitair@gmail.com"
-  description: "This is the first version of SpeakOps project"
+  description: "This is the first version of SpeakOpsX project"
 
 # 2. ENVIRONMENTS
 environments:
